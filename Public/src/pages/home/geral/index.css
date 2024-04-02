@@ -23,7 +23,7 @@ box-shadow: 0px 5px 15px black;
 gap: 90px;
 text-decoration:none ;
 color: #fff;
-font: 800 20px 'le';
+font: 800 30px 'le';
 
 }
 
@@ -39,7 +39,7 @@ border-radius: 750px;
 margin-top: 80px;
 margin-bottom: 70px;
 font: 800 30px 'le';
-text-shadow: 0px 5px 15px black; 
+text-shadow: 0px 5px 5px black; 
 }
 
 .infog{
@@ -406,5 +406,5 @@ box-shadow: 0px -5px 15px black;
 .fnl a{
 text-decoration: none;
 color: #fff;
-font: 800 40px'le' ;
+font: 800 60px'le' ;
 }
